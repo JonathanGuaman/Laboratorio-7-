@@ -16,6 +16,8 @@
 
 - Hoy en dia se lo aplica en las ramas de ingenieria electrica en la cual expresa en forma de una representacion grafica de numeros complejos que se utiliza para representar la osilaciones en forma de fasor con en la siguiente presentacion:
 
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Marco%20Teorico/Marco%20Teorico.png)
+
 
 Figura 2.1
 
@@ -23,7 +25,7 @@ Figura 2.1
 
 ### 3.-LISTA DE COMPONENTES:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Tablas/Tabla%20de%20Componentes.png)
 
 Figura 3.1
 
@@ -31,13 +33,27 @@ Figura 3.1
 
 - Para la resolucion del ejercico se debe segurir los siguientes pasos que se demostraran en la siguinte presentacion:
 
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Resolucion1.png)
+
+
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Resolucion.pdf_2.jpg)
+
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Resolucion.pdf_3.jpg)
+
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Resolucion.pdf_4.jpg)
+
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Resolucion5.png)
+
+
+
+
 
 
 
 
 #### 4.1.-Porcentaje de Error:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-7-/blob/main/Diagramas/Porcentaje%20de%20error.png)
 
 Figura 4.1.1
 
